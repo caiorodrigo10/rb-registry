@@ -19,6 +19,9 @@ export default defineConfig(({ mode }) => {
     resolve: {
       alias: {
         "@": path.resolve(__dirname, "./src"),
+        "@client": path.resolve(__dirname, "./src/client"),
+        "@server": path.resolve(__dirname, "./src/server"),
+        "@game": path.resolve(__dirname, "./src/client/game"),
       },
     },
     plugins: [
@@ -32,5 +35,9 @@ export default defineConfig(({ mode }) => {
         entry: "./src/server/index.ts",
       }),
     ],
+    optimizeDeps: {
+      // Phaser needs to be pre-bundled for proper loading
+      include: ["phaser"],
+    },
   };
 });

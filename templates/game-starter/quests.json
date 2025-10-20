@@ -1,0 +1,8 @@
+{
+  "name": "New Game",
+  "description": "A minimal game template for 2D, 2.5D, and 3D games",
+  "icon": {
+    "lucide": "gamepad-2",
+    "background": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  }
+}

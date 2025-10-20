@@ -1,14 +1,14 @@
 {
-  "name": "@quests/directory",
+  "name": "@roobin/registry",
   "version": "0.0.0",
-  "description": "Quests Directory",
+  "description": "Roobin Registry - Project templates and examples",
   "repository": {
     "type": "git",
-    "url": "https://github.com/finalpointco/directory"
+    "url": "https://github.com/caiorodrigo10/rb-registry"
   },
   "author": {
-    "name": "Finalpoint",
-    "email": "oss@finalpoint.co"
+    "name": "Roobin",
+    "email": "contact@roobin.dev"
   },
   "type": "module",
   "files": [],

@@ -1,10 +1,10 @@
-<h1 align="center">Quests Registry</h1>
+<h1 align="center">Roobin Registry</h1>
 
-The Quests Registry contains Quests templates and example apps. The easiest way to explore the examples is in the Quests desktop app under the Discover section. You can download the Quests desktop app on [Quests.dev](https://quests.dev) or browse the open source code in the [Quests GitHub repository](https://github.com/quests-org/quests).
+The Roobin Registry contains project templates and example apps. The easiest way to explore the examples is in the Roobin desktop app under the Discover section. You can download the Roobin desktop app on [Roobin.dev](https://roobin.dev) or browse the open source code in the [Roobin GitHub repository](https://github.com/caiorodrigo10/roobin-app).
 
-## Quests Core Template
+## Roobin Core Template
 
-For new projects created with Quests, the AI agent uses a flexible React and TypeScript template that is optimized for agentic use by LLMs. It is capable of creating robust fullstack applications with client and server functionality. The core framework relies on the following primary libraries:
+For new projects created with Roobin, the AI agent uses a flexible React and TypeScript template that is optimized for agentic use by LLMs. It is capable of creating robust fullstack applications with client and server functionality. The core framework relies on the following primary libraries:
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://react.dev/)
@@ -27,8 +27,8 @@ Then:
 
 ```shell
 # Clone the repository with submodules
-git clone https://github.com/quests-org/registry.git
-cd quests
+git clone https://github.com/caiorodrigo10/rb-registry.git
+cd rb-registry
 
 # Install dependencies
 pnpm install
@@ -43,4 +43,4 @@ pnpm create-app my-new-app --template shadcn
 
 ## License
 
-Quests Registry is licensed under the Apache 2.0 license. See [LICENSE](./LICENSE) for more information.
+Roobin Registry is licensed under the Apache 2.0 license. See [LICENSE](./LICENSE) for more information.

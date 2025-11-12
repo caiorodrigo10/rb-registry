@@ -1,0 +1,8 @@
+{
+  "name": "TESTE TESTE",
+  "description": "Template de teste para validação do sistema de códigos privados",
+  "icon": {
+    "lucide": "flask",
+    "background": "conic-gradient(from 42deg at 50% 50%, #ff6b6b, #ee5a6f)"
+  }
+}

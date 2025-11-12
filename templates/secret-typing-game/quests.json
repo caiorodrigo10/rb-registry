@@ -1,0 +1,8 @@
+{
+  "icon": {
+    "background": "#8B5CF6",
+    "lucide": "gamepad-2"
+  },
+  "name": "Secret Typing Game",
+  "description": "Um jogo de digitação exclusivo com desafios especiais."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Test Chess Game",
+  "description": "A test version of AI Chess for private code validation",
+  "icon": {
+    "lucide": "sparkles",
+    "background": "conic-gradient(from 90deg at 50% 50%, #ff6b6b, #4ecdc4)"
+  }
+}

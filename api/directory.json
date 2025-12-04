@@ -43,6 +43,9 @@
     },
     {
       "path": "templates/basic"
+    },
+    {
+      "path": "templates/expo-mobile"
     }
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "$schema": "https://roobin.dev/schemas/roobin-v1.json",
+  "version": "1.0",
+  "project": {
+    "name": "Mobile App",
+    "description": "React Native mobile application with Expo",
+    "icon": {
+      "lucide": "smartphone",
+      "background": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+    }
+  },
+  "projectType": "mobile",
+  "runtime": {
+    "type": "expo",
+    "expoVersion": "~51.0.0",
+    "defaultPreviewMode": "mobile"
+  },
+  "mcpServers": {},
+  "_meta": {
+    "compatibility": "1.x",
+    "createdBy": "roobin-oficial@1.0.0"
+  }
+}

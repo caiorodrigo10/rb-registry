@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "$schema": "https://roobin.dev/schemas/roobin-v1.json",
+  "project": {
+    "name": "Prompt Library",
+    "description": "Save and reuse your common AI prompts",
+    "icon": {
+      "lucide": "library",
+      "background": "conic-gradient(from 42deg at 50% 50%, #5e5ce6, #af53de)"
+    }
+  }
+}

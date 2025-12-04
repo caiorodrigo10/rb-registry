@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "$schema": "https://roobin.dev/schemas/roobin-v1.json",
+  "project": {
+    "name": "Next.js",
+    "description": "Get started with Next.js",
+    "icon": {
+      "lucide": "package"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "$schema": "https://roobin.dev/schemas/roobin-v1.json",
+  "project": {
+    "name": "shadcn/ui",
+    "description": "Roobin starter template with shadcn/ui",
+    "icon": {
+      "lucide": "package"
+    }
+  }
+}

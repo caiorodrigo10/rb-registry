@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "$schema": "https://roobin.dev/schemas/roobin-v1.json",
+  "project": {
+    "name": "Secret Typing Game",
+    "description": "Um jogo de digitacao exclusivo com desafios especiais.",
+    "icon": {
+      "lucide": "gamepad-2",
+      "background": "#8B5CF6"
+    }
+  }
+}

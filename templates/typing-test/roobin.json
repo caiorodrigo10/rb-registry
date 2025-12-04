@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "$schema": "https://roobin.dev/schemas/roobin-v1.json",
+  "project": {
+    "name": "Typing Test",
+    "description": "Test your typing speed and accuracy.",
+    "icon": {
+      "lucide": "box",
+      "background": "#525252"
+    }
+  }
+}

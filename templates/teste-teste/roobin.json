@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "$schema": "https://roobin.dev/schemas/roobin-v1.json",
+  "project": {
+    "name": "TESTE TESTE",
+    "description": "Template de teste para validacao do sistema de codigos privados",
+    "icon": {
+      "lucide": "flask",
+      "background": "conic-gradient(from 42deg at 50% 50%, #ff6b6b, #ee5a6f)"
+    }
+  }
+}

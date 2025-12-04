@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "$schema": "https://roobin.dev/schemas/roobin-v1.json",
+  "project": {
+    "name": "Micro Chatbot",
+    "description": "Chat with AI models in Roobin",
+    "icon": {
+      "lucide": "message-circle",
+      "background": "conic-gradient(from 42deg at 50% 50%, #0d84ff, #5856d7)"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "$schema": "https://roobin.dev/schemas/roobin-v1.json",
+  "project": {
+    "name": "SvelteKit",
+    "description": "Get started with SvelteKit",
+    "icon": {
+      "lucide": "package"
+    }
+  }
+}

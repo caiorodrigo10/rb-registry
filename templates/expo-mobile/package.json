@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^14.0.2",
+    "@react-native/assets-registry": "0.74.85",
     "@react-navigation/native": "^6.1.17",
     "expo": "~51.0.0",
     "expo-asset": "~10.0.10",

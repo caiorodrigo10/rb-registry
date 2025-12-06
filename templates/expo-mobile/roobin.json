@@ -12,7 +12,7 @@
   "projectType": "mobile",
   "runtime": {
     "type": "expo",
-    "expoVersion": "~51.0.0",
+    "expoVersion": "^54.0.0",
     "defaultPreviewMode": "mobile",
     "connectionMode": "tunnel"
   },

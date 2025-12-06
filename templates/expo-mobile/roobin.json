@@ -13,7 +13,8 @@
   "runtime": {
     "type": "expo",
     "expoVersion": "~51.0.0",
-    "defaultPreviewMode": "mobile"
+    "defaultPreviewMode": "mobile",
+    "connectionMode": "tunnel"
   },
   "mcpServers": {},
   "_meta": {

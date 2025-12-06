@@ -14,7 +14,8 @@
     "type": "expo",
     "expoVersion": "^54.0.0",
     "defaultPreviewMode": "mobile",
-    "connectionMode": "tunnel"
+    "connectionMode": "tunnel",
+    "tunnelProvider": "cloudflared"
   },
   "mcpServers": {},
   "_meta": {
